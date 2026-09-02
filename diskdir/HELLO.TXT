@@ -1,0 +1,2 @@
+Hello from the OE Reboot FAT disk!
+If the kernel printed this, fat_mount()/fat_read_file() both work end to end.
